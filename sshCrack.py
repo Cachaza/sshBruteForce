@@ -3,7 +3,7 @@ import paramiko
 host = raw_input("Host: ")
 username = raw_input("Username:(root maybe?) ")
 #this is the array of passwords, you can make it bigger or smaller
-password = ["pass.txt", "1506201", "asdfghjkl;", "zxcvbnm", "12345", "15062018"]
+password = ["password", "14052002", "asdfghjkl;", "zxcvbnm", "123456789", "12062016"]
 #stetics
 line = "---------------------------------------------------"
 # \n is the same as <br> on html or js :-)
